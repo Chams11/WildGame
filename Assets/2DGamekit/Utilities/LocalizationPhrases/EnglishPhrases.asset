@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97933d85c6acddc4bb95f77ca8cc0280, type: 3}
+  m_Name: EnglishPhrases
+  m_EditorClassIdentifier: 
+  language: English
+  phrases:
+  - key: INFOPOST1
+    value: "\"Hein ...?! Le portail ne fonctionne pas... Bon, j'ai vu un passage
+      plus bas quand j'ai activ\xE9 le bouton. Faut que je sorte d'ici, revenir en
+      arri\xE8re servira \xE0 rien... J'esp\xE8re que y'aura pas plus de ces choses...\""
+  - key: INFOPOST2
+    value: "\"...O\xF9-suis je...? Wow ! Mon vaisseau est compl\xE8tement HS, il
+      faut que je trouve le moyen de partir d'ici... Le vaisseau et trop d\xE9truit
+      pour que je puisse le r\xE9parer. Aller, c'est partie...\""
+  - key: INFOPOST3
+    value: "\"Ca \xE0 l'air d'\xEAtre une for\xEAt... Elle est tr\xE8s sp\xE9cial
+      de ce que je vois, malheureusement il n'y a rien d'int\xE9ressant ici. J'ai
+      rien trouver d'int\xE9ressant pour l'instant, je vais aller dans cette grotte,
+      peut \xEAtre qu'il y'aura quelque chose \xE0 prendre ou m\xEAme un endroit
+      ou s'habriter.\""
+  - key: INFOPOST4
+    value: "\"Qu'elle est cette grotte ...? Et cette statue derri\xE8re moi...? Bon...Vu
+      que je suis bloqu\xE9 ici, autant explorer celle-ci. Je trouverai peut \xEAtre
+      quelque chose d'int\xE9ressant.\""
+  - key: INFOPOST5
+    value: "\"Tu peux utiliser t'as souris pour attaque, Clique Droit pour le blaster
+      et Clique Gauche pour l'attaque de m\xE9lee. Tu peux aussi sauter gr\xE2ce
+      \xE0 la touche Espace, mais aussi int\xE9ragir avec certain objet avec la touche
+      E ou directement ton blaster.\""
+  - key: INFOPOST6
+    value: "\"Ok, encore une autre partie de la grotte... Je dois pas \xEAtre tr\xE8s
+      loin de la sortie. Il faut vite que je sorte et que je trouve de l'aide\""
+  - key: INFOPOST7
+    value: "\"Quesque c'est que cette for\xEAt...? Elle est encore plus \xE9trange
+      que celle que j'ai vu lors de mon arriv\xE9. Bon, \xE7a fera encore un peu
+      plus d'exploration \"palpitante\"... Continuons par la, je trouverai peut \xEAtre
+      quelque chose.\""
+  - key: INFOPOST8
+    value: "\"OH ! J'ai trouv\xE9 un autre vaisseau... Ok, faut pas ce faire de fausse
+      joie, allons-voir si il fonctionne. Vue sont \xE9tat sa devrai le faire, je
+      vais pouvoir enfin quitt\xE9 cette endroit. Malgr\xE9 que \xE7a \xE9t\xE9 une
+      bonne exploration... J'ai failli perdre la vie la dedans... Bon bref, partons
+      d'ici.\""
+  - key: INFOPOST9
+    value: "\"OOF ! Enfin, je suis sortie de la grotte... C'\xE9tait complexe, mais
+      \xE7a va aller, je suis sur que je vais pouvoir trouver de l'aide...\""
